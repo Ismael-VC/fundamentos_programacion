@@ -10,7 +10,6 @@ public class AreaYPerimetroTriangulo {
 
 		System.out.println("El area del triangulo es: " + area + "cm");
 		System.out.println("El perimetro del triangulo es: " + perimetro + "cm");
-		// comment
 	}
 }
 
